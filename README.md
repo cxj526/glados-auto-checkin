@@ -18,26 +18,27 @@
 ## 一、Fork此仓库
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
+先注册server酱
+![](http://sc.ftqq.com/3.version), 获取到SCKEY，
 
-添加名为——值分别为：  
+
+
+然后在Settings添加名为——值分别为：  
 **SERVE**  ——**on/off** 你想你的serve酱开不开启通知  
 **SCKEY**  ——**sckey**  开的话填你的serve酱的sckey，不开就不填   
-**COOKIE** —— **cookie** 弄上你账号的cookie  
-暂不支持多账号，懒得弄
+**COOKIE** —— **cookie** 弄上你账号的cookie  （Cookie通过Chrome的F12获取）
+
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
 ## 三、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
-2 修改任意文件后提交一次  
+2 修改任意文件后提交一次  ， 提交可以通过Create File 进行
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 
 ## 四、查看运行结果
 Actions > Cloud189Checkin > build  
 能看到如下图所示，表示成功，或者看你微信通知  
 ![](http://tu.yaohuo.me/imgs/2020/06/289432b53bded61c.png)  
-  
-# 腾讯云函数
-复制py代码，将三个参数自行修改  
 
 
 
