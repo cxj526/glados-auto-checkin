@@ -19,12 +19,12 @@
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
 先注册server酱
-![](http://sc.ftqq.com/3.version), 获取到SCKEY，
+[http://sc.ftqq.com/3.version], 获取到SCKEY，
 
 
 
 然后在Settings添加名为——值分别为：  
-**SERVE**  ——**on/off** 你想你的serve酱开不开启通知  
+**SERVE**  ——**on/off** 你想你的serve酱开不开启通知  ,on代表开启， off代表不开启
 **SCKEY**  ——**sckey**  开的话填你的serve酱的sckey，不开就不填   
 **COOKIE** —— **cookie** 弄上你账号的cookie  （Cookie通过Chrome的F12获取）
 
